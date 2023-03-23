@@ -747,7 +747,7 @@ padding-bottom: 120px;
         .modal{
             position: absolute;
             width: 408px;
-            height: 576px;
+            min-height: 576px;
             padding: 72px 24px 24px;
             left: 50%;
             top: 50%; 
