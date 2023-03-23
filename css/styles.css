@@ -577,8 +577,11 @@ padding-bottom: 120px;
             padding: 8px 24px;
             border: none;
             width: 165px;
-            /* position:relative; */
-                
+        
+        }
+        .footer-form-button:hover {
+            background-color: var(--accent-color);
+            transition: background-color var(--transition-duration) var(--transition-timing);
 
         }
         .footer-form-icon{
